@@ -1,11 +1,11 @@
 # naTours
 
+![naTours](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
+![naTours](https://img.shields.io/badge/Express-grey?style=flat&logo=express)
+![naTours](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
 ![naTours](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
-![naTours](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![naTours](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)
-![naTours](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
 
-naTours is a full-stack application built with React, Node.js, Express, and MongoDB. It is a web app designed for managing and browsing tours, providing users with a way to explore various tour destinations, book them, and access information related to the trips. This application demonstrates how to handle data from a back-end server to a front-end React application, as well as CRUD operations for managing tour information.
+naTours is a full-stack application built with Javascript, Node.js, Express, and MongoDB. It is a web app designed for managing and browsing tours, providing users with a way to explore various tour destinations, book them, and access information related to the trips. This application demonstrates how to handle data from a back-end server to a front-end application, as well as CRUD operations for managing tour information.
 
 ## Features
 
